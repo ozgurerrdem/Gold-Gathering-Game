@@ -1,0 +1,36 @@
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\bin\Debug\proje-1.exe.config
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\bin\Debug\proje-1.exe
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\bin\Debug\proje-1.pdb
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\obj\Debug\proje-1.csprojAssemblyReference.cache
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\obj\Debug\proje_1.openScrene.resources
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\obj\Debug\proje_1.Properties.Resources.resources
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\obj\Debug\proje-1.csproj.GenerateResource.cache
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\obj\Debug\proje-1.csproj.CoreCompileInputs.cache
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\obj\Debug\proje-1.exe
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\obj\Debug\proje-1.pdb
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\obj\Debug\proje_1.gameScreen.resources
+C:\Users\ozden\Desktop\Yazlab1\proje-1\proje-1\obj\Debug\proje_1.settings.resources
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\bin\Debug\proje-1.exe.config
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\bin\Debug\proje-1.exe
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\bin\Debug\proje-1.pdb
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\obj\Debug\proje-1.csprojAssemblyReference.cache
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\obj\Debug\proje_1.gameScreen.resources
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\obj\Debug\proje_1.openScrene.resources
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\obj\Debug\proje_1.Properties.Resources.resources
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\obj\Debug\proje_1.settings.resources
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\obj\Debug\proje-1.csproj.GenerateResource.cache
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\obj\Debug\proje-1.csproj.CoreCompileInputs.cache
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\obj\Debug\proje-1.exe
+C:\Users\Evren Ustun\Desktop\C#\proje-1\proje-1\obj\Debug\proje-1.pdb
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\bin\Debug\proje-1.exe.config
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\bin\Debug\proje-1.exe
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\bin\Debug\proje-1.pdb
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\obj\Debug\proje-1.csprojAssemblyReference.cache
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\obj\Debug\proje_1.gameScreen.resources
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\obj\Debug\proje_1.openScrene.resources
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\obj\Debug\proje_1.Properties.Resources.resources
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\obj\Debug\proje_1.settings.resources
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\obj\Debug\proje-1.csproj.GenerateResource.cache
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\obj\Debug\proje-1.csproj.CoreCompileInputs.cache
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\obj\Debug\proje-1.exe
+C:\Users\ozden\Desktop\pro\proje-1\proje-1\obj\Debug\proje-1.pdb

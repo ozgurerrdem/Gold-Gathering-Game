@@ -1,0 +1,177 @@
+A oyuncusu 0, 0 konumundan 2, 1 konumuna ilerlemistir
+B oyuncusu 19, 0 konumundan 18, 0 konumuna ilerlemistir
+C oyuncusu 19, 19 konumundan 18, 19 konumuna ilerlemistir
+D oyuncusu 0, 19 konumundan 1, 17 konumuna ilerlemistir
+
+A oyuncusu 2, 1 konumundan 2, 2 konumuna ilerlemistir
+B oyuncusu 18, 0 konumundan 18, 1 konumuna ilerlemistir
+C oyuncusu 18, 19 konumundan 17, 17 konumuna ilerlemistir
+D oyuncusu 1, 17 konumundan 4, 17 konumuna ilerlemistir
+
+A oyuncusu 2, 2 konumundan 5, 2 konumuna ilerlemistir
+B oyuncusu 18, 1 konumundan 19, 3 konumuna ilerlemistir
+C oyuncusu 17, 17 konumundan 15, 16 konumuna ilerlemistir
+D oyuncusu 4, 17 konumundan 4, 16 konumuna ilerlemistir
+
+A oyuncusu 5, 2 konumundan 5, 3 konumuna ilerlemistir
+B oyuncusu 19, 3 konumundan 19, 6 konumuna ilerlemistir
+C oyuncusu 15, 16 konumundan 15, 15 konumuna ilerlemistir
+D oyuncusu 4, 16 konumundan 4, 13 konumuna ilerlemistir
+
+A oyuncusu 5, 3 konumundan 5, 4 konumuna ilerlemistir
+B oyuncusu 19, 6 konumundan 19, 8 konumuna ilerlemistir
+C oyuncusu 15, 15 konumundan 14, 14 konumuna ilerlemistir
+D oyuncusu 4, 13 konumundan 6, 12 konumuna ilerlemistir
+
+A oyuncusu 5, 4 konumundan 6, 4 konumuna ilerlemistir
+B oyuncusu 19, 8 konumundan 18, 6 konumuna ilerlemistir
+C oyuncusu 14, 14 konumundan 13, 15 konumuna ilerlemistir
+D oyuncusu 6, 12 konumundan 6, 10 konumuna ilerlemistir
+
+A oyuncusu 6, 4 konumundan 7, 3 konumuna ilerlemistir
+B oyuncusu 18, 6 konumundan 16, 7 konumuna ilerlemistir
+C oyuncusu 13, 15 konumundan 12, 13 konumuna ilerlemistir
+D oyuncusu 6, 10 konumundan 6, 8 konumuna ilerlemistir
+
+A oyuncusu 7, 3 konumundan 7, 2 konumuna ilerlemistir
+B oyuncusu 16, 7 konumundan 16, 10 konumuna ilerlemistir
+C oyuncusu 12, 13 konumundan 12, 12 konumuna ilerlemistir
+D oyuncusu 6, 8 konumundan 7, 8 konumuna ilerlemistir
+
+A oyuncusu 7, 2 konumundan 9, 1 konumuna ilerlemistir
+B oyuncusu 16, 10 konumundan 18, 11 konumuna ilerlemistir
+C oyuncusu 12, 12 konumundan 9, 12 konumuna ilerlemistir
+D oyuncusu 7, 8 konumundan 7, 5 konumuna ilerlemistir
+
+A oyuncusu 9, 1 konumundan 9, 0 konumuna ilerlemistir
+B oyuncusu 18, 11 konumundan 18, 12 konumuna ilerlemistir
+C oyuncusu 9, 12 konumundan 8, 10 konumuna ilerlemistir
+D oyuncusu 7, 5 konumundan 7, 2 konumuna ilerlemistir
+
+A oyuncusu 9, 0 konumundan 10, 1 konumuna ilerlemistir
+B oyuncusu 18, 12 konumundan 19, 14 konumuna ilerlemistir
+C oyuncusu 8, 10 konumundan 5, 10 konumuna ilerlemistir
+D oyuncusu 7, 2 konumundan 10, 2 konumuna ilerlemistir
+
+A oyuncusu 10, 1 konumundan 13, 1 konumuna ilerlemistir
+B oyuncusu 19, 14 konumundan 18, 15 konumuna ilerlemistir
+C oyuncusu 5, 10 konumundan 2, 10 konumuna ilerlemistir
+D oyuncusu 10, 2 konumundan 10, 5 konumuna ilerlemistir
+
+A oyuncusu 13, 1 konumundan 13, 2 konumuna ilerlemistir
+B oyuncusu 18, 15 konumundan 16, 16 konumuna ilerlemistir
+C oyuncusu 2, 10 konumundan 2, 11 konumuna ilerlemistir
+D oyuncusu 10, 5 konumundan 10, 7 konumuna ilerlemistir
+
+A oyuncusu 13, 2 konumundan 15, 3 konumuna ilerlemistir
+B oyuncusu 16, 16 konumundan 16, 17 konumuna ilerlemistir
+C oyuncusu 2, 11 konumundan 1, 9 konumuna ilerlemistir
+D oyuncusu 10, 7 konumundan 11, 7 konumuna ilerlemistir
+
+A oyuncusu 15, 3 konumundan 15, 4 konumuna ilerlemistir
+B oyuncusu 16, 17 konumundan 13, 17 konumuna ilerlemistir
+C oyuncusu 1, 9 konumundan 1, 7 konumuna ilerlemistir
+D oyuncusu 11, 7 konumundan 14, 7 konumuna ilerlemistir
+
+A oyuncusu 15, 4 konumundan 14, 4 konumuna ilerlemistir
+B oyuncusu 13, 17 konumundan 12, 19 konumuna ilerlemistir
+C oyuncusu 1, 7 konumundan 2, 7 konumuna ilerlemistir
+D oyuncusu 14, 7 konumundan 14, 8 konumuna ilerlemistir
+
+A oyuncusu 14, 4 konumundan 16, 5 konumuna ilerlemistir
+B oyuncusu 12, 19 konumundan 10, 18 konumuna ilerlemistir
+C oyuncusu 2, 7 konumundan 2, 5 konumuna ilerlemistir
+D oyuncusu 14, 8 konumundan 16, 8 konumuna ilerlemistir
+
+A oyuncusu 16, 5 konumundan 16, 6 konumuna ilerlemistir
+B oyuncusu 10, 18 konumundan 10, 16 konumuna ilerlemistir
+C oyuncusu 2, 5 konumundan 1, 4 konumuna ilerlemistir
+D oyuncusu 16, 8 konumundan 18, 8 konumuna ilerlemistir
+
+A oyuncusu 16, 6 konumundan 17, 8 konumuna ilerlemistir
+B oyuncusu 10, 16 konumundan 10, 14 konumuna ilerlemistir
+C oyuncusu 1, 4 konumundan 1, 7 konumuna ilerlemistir
+D oyuncusu 18, 8 konumundan 19, 10 konumuna ilerlemistir
+
+A oyuncusu 17, 8 konumundan 17, 9 konumuna ilerlemistir
+B oyuncusu 10, 14 konumundan 8, 13 konumuna ilerlemistir
+C oyuncusu 1, 7 konumundan 1, 8 konumuna ilerlemistir
+D oyuncusu 19, 10 konumundan 19, 11 konumuna ilerlemistir
+
+A oyuncusu 17, 9 konumundan 18, 11 konumuna ilerlemistir
+B oyuncusu 8, 13 konumundan 7, 15 konumuna ilerlemistir
+C oyuncusu 1, 8 konumundan 0, 10 konumuna ilerlemistir
+D oyuncusu 19, 11 konumundan 19, 14 konumuna ilerlemistir
+
+A oyuncusu 18, 11 konumundan 17, 13 konumuna ilerlemistir
+B oyuncusu 7, 15 konumundan 7, 18 konumuna ilerlemistir
+C oyuncusu 0, 10 konumundan 0, 11 konumuna ilerlemistir
+D oyuncusu 19, 14 konumundan 19, 17 konumuna ilerlemistir
+
+A oyuncusu 17, 13 konumundan 17, 16 konumuna ilerlemistir
+B oyuncusu 7, 18 konumundan 8, 19 konumuna ilerlemistir
+C oyuncusu 0, 11 konumundan 2, 12 konumuna ilerlemistir
+D oyuncusu 19, 17 konumundan 19, 18 konumuna ilerlemistir
+
+A oyuncusu 17, 16 konumundan 17, 19 konumuna ilerlemistir
+B oyuncusu 8, 19 konumundan 10, 19 konumuna ilerlemistir
+C oyuncusu 2, 12 konumundan 2, 14 konumuna ilerlemistir
+
+A oyuncusu 17, 19 konumundan 14, 19 konumuna ilerlemistir
+B oyuncusu 10, 19 konumundan 8, 18 konumuna ilerlemistir
+C oyuncusu 2, 14 konumundan 3, 16 konumuna ilerlemistir
+
+A oyuncusu 14, 19 konumundan 13, 18 konumuna ilerlemistir
+B oyuncusu 8, 18 konumundan 8, 15 konumuna ilerlemistir
+C oyuncusu 3, 16 konumundan 3, 17 konumuna ilerlemistir
+
+A oyuncusu 13, 18 konumundan 14, 16 konumuna ilerlemistir
+B oyuncusu 8, 15 konumundan 5, 15 konumuna ilerlemistir
+C oyuncusu 3, 17 konumundan 6, 17 konumuna ilerlemistir
+
+A oyuncusu 14, 16 konumundan 14, 15 konumuna ilerlemistir
+B oyuncusu 5, 15 konumundan 7, 14 konumuna ilerlemistir
+C oyuncusu 6, 17 konumundan 9, 17 konumuna ilerlemistir
+
+A oyuncusu 14, 15 konumundan 11, 15 konumuna ilerlemistir
+B oyuncusu 7, 14 konumundan 7, 11 konumuna ilerlemistir
+C oyuncusu 9, 17 konumundan 9, 14 konumuna ilerlemistir
+
+A oyuncusu 11, 15 konumundan 9, 14 konumuna ilerlemistir
+B oyuncusu 7, 11 konumundan 9, 12 konumuna ilerlemistir
+C oyuncusu 9, 14 konumundan 6, 14 konumuna ilerlemistir
+
+A oyuncusu 9, 14 konumundan 6, 14 konumuna ilerlemistir
+B oyuncusu 9, 12 konumundan 6, 12 konumuna ilerlemistir
+C oyuncusu 6, 14 konumundan 6, 11 konumuna ilerlemistir
+
+A oyuncusu 6, 14 konumundan 6, 11 konumuna ilerlemistir
+B oyuncusu 6, 12 konumundan 6, 9 konumuna ilerlemistir
+C oyuncusu 6, 11 konumundan 6, 8 konumuna ilerlemistir
+
+A oyuncusu 6, 11 konumundan 6, 8 konumuna ilerlemistir
+B oyuncusu 6, 9 konumundan 6, 6 konumuna ilerlemistir
+C oyuncusu 6, 8 konumundan 5, 6 konumuna ilerlemistir
+
+A oyuncusu 6, 8 konumundan 5, 6 konumuna ilerlemistir
+B oyuncusu 6, 6 konumundan 5, 4 konumuna ilerlemistir
+C oyuncusu 5, 6 konumundan 5, 3 konumuna ilerlemistir
+
+A oyuncusu 5, 6 konumundan 5, 3 konumuna ilerlemistir
+B oyuncusu 5, 4 konumundan 5, 1 konumuna ilerlemistir
+C oyuncusu 5, 3 konumundan 5, 0 konumuna ilerlemistir
+
+A oyuncusu 5, 3 konumundan 8, 3 konumuna ilerlemistir
+B oyuncusu 5, 1 konumundan 8, 1 konumuna ilerlemistir
+C oyuncusu 5, 0 konumundan 8, 0 konumuna ilerlemistir
+
+A oyuncusu 8, 3 konumundan 11, 3 konumuna ilerlemistir
+B oyuncusu 8, 1 konumundan 11, 1 konumuna ilerlemistir
+
+A oyuncusu 11, 3 konumundan 14, 3 konumuna ilerlemistir
+B oyuncusu 11, 1 konumundan 14, 1 konumuna ilerlemistir
+
+A oyuncusu 14, 3 konumundan 16, 2 konumuna ilerlemistir
+B oyuncusu 14, 1 konumundan 16, 0 konumuna ilerlemistir
+
+A oyuncusu 16, 2 konumundan 19, 2 konumuna ilerlemistir

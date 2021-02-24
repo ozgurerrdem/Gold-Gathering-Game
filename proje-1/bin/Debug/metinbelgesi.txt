@@ -1,0 +1,27 @@
+A oyuncusunun toplam adim sayisi:93
+B oyuncusunun toplam adim sayisi:87
+C oyuncusunun toplam adim sayisi:75
+D oyuncusunun toplam adim sayisi:47
+
+
+A oyuncusunun harcadigi altin sayisi:315
+B oyuncusunun harcadigi altin sayisi:435
+C oyuncusunun harcadigi altin sayisi:480
+D oyuncusunun harcadigi altin sayisi:475
+
+
+A oyuncusunun kasasindaki altin miktari:105
+B oyuncusunun kasasindaki altin miktari:90
+C oyuncusunun kasasindaki altin miktari:0
+D oyuncusunun kasasindaki altin miktari:-5
+
+
+A oyuncusunun topladigi altin miktari:220
+B oyuncusunun topladigi altin miktari:325
+C oyuncusunun topladigi altin miktari:280
+D oyuncusunun topladigi altin miktari:270
+
+
+
+
+
